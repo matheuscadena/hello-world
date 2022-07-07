@@ -32,7 +32,8 @@
   </div>
 
    <h1> Thank you, Happy Learning </h1>
-   <h1> Copyright Matheus Cadena - Associate Application Developer</h1>
+
+   <h4> Copyright Matheus Cadena - Application Developer</h4>
 
   
 </form>
